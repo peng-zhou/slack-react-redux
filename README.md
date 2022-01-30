@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 SDK setup and configuration
 
 Copy firebaseConfig from firebase project settings
+Paste into src/firebase.js
+
+## Demo
+
+https://slack-clone-yt-407ee.web.app/
 
 ## Available Scripts
 
@@ -48,4 +53,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 # slack-react-redux
